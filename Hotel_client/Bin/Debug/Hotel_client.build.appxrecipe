@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HESUS</Machine>
+    <WindowsUser>allan</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fe29811d-c29b-4960-b628-e8552fb44fe2</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Hotel_client.dll">
+      <PackagePath>Hotel_client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\Telerik.Windows.Controls.Primitives.dll">
+      <PackagePath>Telerik.Windows.Controls.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\Telerik.Windows.Core.dll">
+      <PackagePath>Telerik.Windows.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll">
+      <PackagePath>System.Windows.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\de-DE\Telerik.Windows.Controls.Primitives.resources.dll">
+      <PackagePath>de-DE\Telerik.Windows.Controls.Primitives.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll">
+      <PackagePath>fr-FR\Telerik.Windows.Controls.Primitives.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\it-IT\Telerik.Windows.Controls.Primitives.resources.dll">
+      <PackagePath>it-IT\Telerik.Windows.Controls.Primitives.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\de\System.Windows.Interactivity.resources.dll">
+      <PackagePath>de\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\en\System.Windows.Interactivity.resources.dll">
+      <PackagePath>en\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\es\System.Windows.Interactivity.resources.dll">
+      <PackagePath>es\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\fr\System.Windows.Interactivity.resources.dll">
+      <PackagePath>fr\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\it\System.Windows.Interactivity.resources.dll">
+      <PackagePath>it\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ja\System.Windows.Interactivity.resources.dll">
+      <PackagePath>ja\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ko\System.Windows.Interactivity.resources.dll">
+      <PackagePath>ko\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\ru\System.Windows.Interactivity.resources.dll">
+      <PackagePath>ru\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hans\System.Windows.Interactivity.resources.dll">
+      <PackagePath>zh-Hans\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\zh-Hant\System.Windows.Interactivity.resources.dll">
+      <PackagePath>zh-Hant\System.Windows.Interactivity.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\Telerik.Windows.Controls.Primitives.xml">
+      <PackagePath>Telerik.Windows.Controls.Primitives.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\lib\RCWP\2014.2.617.3040\Telerik.Windows.Core.xml">
+      <PackagePath>Telerik.Windows.Core.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\AppBar1\add.png">
+      <PackagePath>Assets\AppBar1\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\AppBar\save.png">
+      <PackagePath>Assets\AppBar\save.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\admin.png">
+      <PackagePath>icons\admin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\calendar.png">
+      <PackagePath>icons\calendar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\cart.png">
+      <PackagePath>icons\cart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\globe.png">
+      <PackagePath>icons\globe.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\hotel.png">
+      <PackagePath>icons\hotel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\hotels.png">
+      <PackagePath>icons\hotels.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\location.png">
+      <PackagePath>icons\location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\logout.png">
+      <PackagePath>icons\logout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\user.png">
+      <PackagePath>icons\user.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\icons\wwee.jpg">
+      <PackagePath>icons\wwee.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

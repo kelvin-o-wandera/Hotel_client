@@ -1,0 +1,89 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hotel_client
+</name>
+</assembly>
+<members>
+<member name="M:Hotel_client.Checkout.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Hotel_client.Hotels.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Hotel_client.AddFood.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Hotel_client.MainPage.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Hotel_client.App.RootFrame">
+	<summary>
+ Provides easy access to the root frame of the Phone Application.
+ </summary>
+	<returns>The root frame of the Phone Application.</returns>
+</member><member name="M:Hotel_client.App.#ctor">
+	<summary>
+ Constructor for the Application object.
+ </summary>
+</member><member name="T:Hotel_client.LocalizedStrings">
+	<summary>
+ Provides access to string resources.
+ </summary>
+</member><member name="M:Hotel_client.Foods.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Hotel_client.AddHotel.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="P:Hotel_client.AppResources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hotel_client.AppResources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hotel_client.AppResources.AppBarButtonText">
+	<summary>
+  Looks up a localized string similar to add.
+</summary>
+</member><member name="P:Hotel_client.AppResources.AppBarMenuItemText">
+	<summary>
+  Looks up a localized string similar to Menu Item.
+</summary>
+</member><member name="P:Hotel_client.AppResources.ApplicationTitle">
+	<summary>
+  Looks up a localized string similar to MY APPLICATION.
+</summary>
+</member><member name="P:Hotel_client.AppResources.ResourceFlowDirection">
+	<summary>
+  Looks up a localized string similar to LeftToRight.
+</summary>
+</member><member name="P:Hotel_client.AppResources.ResourceLanguage">
+	<summary>
+  Looks up a localized string similar to en-US.
+</summary>
+</member><member name="T:Hotel_client.AppResources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Hotel_client.Admin.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:Hotel_client.App.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

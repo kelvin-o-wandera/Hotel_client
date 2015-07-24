@@ -1,0 +1,360 @@
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.pdb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\AppManifest.xaml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.pdb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\XapCacheFile.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\App.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\AddHotel.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotels.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\MainPage.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.g.resources
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Newtonsoft.Json.dll
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\AddFood.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Admin.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Checkout.g.i.vb
+F:\computer technology\2nd year\2nd sem\Application Programming\vb projects\Assignment II\ProgressBar\Hotel_client\Hotel_client\obj\Debug\Foods.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.pdb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.xml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\App.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\AddFood.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\AddHotel.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Admin.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Checkout.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Foods.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotels.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\MainPage.g.i.vb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.g.resources
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.dll
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.xml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.pdb
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\AppManifest.xaml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+C:\Users\Kelvin Wandera\Desktop\Hotel_client\Hotel_client\obj\Debug\XapCacheFile.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.pdb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\AppManifest.xaml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\App.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\AddFood.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\AddHotel.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Admin.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Checkout.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Foods.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotels.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\MainPage.g.vb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.g.resources
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.dll
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.xml
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.pdb
+C:\Users\wankevow\Desktop\Hotel_client\Hotel_client\obj\Debug\XapCacheFile.xml
+F:\Hotel_client\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+F:\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.pdb
+F:\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.xml
+F:\Hotel_client\Hotel_client\Bin\Debug\AppManifest.xaml
+F:\Hotel_client\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+F:\Hotel_client\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+F:\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+F:\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+F:\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+F:\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+F:\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+F:\Hotel_client\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+F:\Hotel_client\Hotel_client\obj\Debug\App.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\AddFood.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\AddHotel.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\Admin.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\Checkout.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\Foods.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\Hotels.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\MainPage.g.i.vb
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.g.resources
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.dll
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.xml
+F:\Hotel_client\Hotel_client\obj\Debug\Hotel_client.pdb
+F:\Hotel_client\Hotel_client\obj\Debug\XapCacheFile.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.pdb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\AppManifest.xaml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\App.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\AddFood.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\AddHotel.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Admin.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Checkout.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Foods.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotels.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\MainPage.g.i.vb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.g.resources
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.dll
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.xml
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\Hotel_client.pdb
+C:\Users\allan\Desktop\Hotel_client\Hotel_client\obj\Debug\XapCacheFile.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Hotel_client.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Hotel_client.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Hotel_client.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\AppManifest.xaml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\App.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\AddFood.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\AddHotel.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Admin.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Checkout.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Foods.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotels.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\MainPage.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.g.resources
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.dll
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.xml
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\Hotel_client.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy\Hotel_client\obj\Debug\XapCacheFile.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Hotel_client.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Hotel_client.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Hotel_client.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\resources.pri
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\AppxManifest.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Hotel_client.build.appxrecipe
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\My Project\WMAppManifest.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\AppManifest.xaml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Hotel_client_Debug_AnyCPU.xap
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Core.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Controls.Primitives.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Core.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\Telerik.Windows.Core.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\de-DE\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\fr-FR\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\it-IT\Telerik.Windows.Controls.Primitives.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.vbprojResolveAssemblyReference.cache
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\App.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\AddFood.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\AddHotel.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Admin.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Checkout.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Foods.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotels.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\MainPage.g.i.vb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.g.resources
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.AppResources.resources
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.vbproj.GenerateResource.Cache
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.dll
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\Hotel_client.pdb
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\priconfig.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\priconfig.xml.intermediate
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\layout.resfiles
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\layout.resfiles.intermediate
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\resources.resfiles
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\resources.resfiles.intermediate
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\pri.resfiles
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\pri.resfiles.intermediate
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\qualifiers.txt
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\qualifiers.txt.intermediate
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\ProjectArchitectures.txt
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\MDILProjectFiles.xml
+C:\Users\allan\Desktop\Hotel_client - Copy - Copy\Hotel_client\obj\Debug\XapCacheFile.xml
